@@ -1,0 +1,4 @@
+nltk
+sklearn
+sklearn_crfsuite
+
